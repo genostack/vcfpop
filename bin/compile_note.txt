@@ -1,0 +1,2 @@
+vcfpop		Ubuntu ELF executable compiled by GCC 9.2.1
+vcfpop.exe	Windows PE executable compile by Visual Studio 2019 with LLVM/Clang
